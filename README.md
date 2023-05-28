@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm OengOeiyy 🌸✨</h1>
-<h3 align="center">Junior Developer, Dreamer, and Doer.</h3>
+<h3 align="center">Junior Developer, Dreamer, and Cat owner.</h3>
 <div align='center' style="display: flex; flex-direction: row;">
   <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oengoeiyy&theme=dracula&hide=TeX&layout=donut-vertical" />
 </div>
